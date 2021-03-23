@@ -13,6 +13,10 @@ greetings = "Hello World!"
 # isalpha() helps us find if the variable holding letters without spaces and special characters
 print(greetings.isalpha())
 
+# The isinstance() function returns True if the specified object is of the specified type, otherwise False.
+# If the type parameter is a tuple, this function will return True if the object is one of the types in the tuple.
+print(isinstance(5, int))
+
 # islower() checks if the statement in lower case
 print(greetings.islower())
 
