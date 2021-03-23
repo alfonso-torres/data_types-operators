@@ -1,12 +1,12 @@
 # Let's see the data types in action
 
-# a = 24 # Int
-# b = 16 # Int
-# c = 5.5 # float
+a = 24 # Int
+b = 16 # Int
+c = 5.5 # float
 
 # Let's check the boolean values
-# print(a > b)
-# print(a < b)
+print(a > b)
+print(a < b)
 
 # Let's look at some built in methods for boolean
 greetings = "Hello World!"
@@ -25,8 +25,10 @@ print(x)
 print(type(x))
 print(x is None)
 
+# Arithmetic Operators
 # print(a + b)
 # print(a - b)
 # print(a * b)
 # print(a / b)
 # print(a + c)
+
